@@ -62,3 +62,9 @@
   justify-content: center;
 }
 
+a:hover{
+  color: #ea580c;
+}
+button:hover{
+  background-color: #e08b5c;
+}
