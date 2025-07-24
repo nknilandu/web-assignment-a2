@@ -24,5 +24,41 @@
 .body {
   max-width: 1140px;
   margin: 20px auto;
-  background-color: #F5F8FF;
 }
+.bg-color{
+    background-color: #F5F8FF;
+}
+.card-1{
+  background: linear-gradient(45deg, rgba(0, 0, 0, 0.664), rgba(0, 0, 0, 0.336)), url(../images/deal-bloom.png);
+  border-radius: 15px;
+  background-size: cover;
+  background-position: center;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.card-2{
+  background: linear-gradient(45deg, rgba(0, 0, 0, 0.664), rgba(0, 0, 0, 0.336)), url(../images/deal-ana.png);
+  border-radius: 15px;
+  background-size: cover;
+  background-position: center;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.card-3{
+  background: linear-gradient(45deg, rgba(0, 0, 0, 0.664), rgba(0, 0, 0, 0.336)), url(../images/deal-zabo.png);
+  border-radius: 15px;
+  background-size: cover;
+  background-position: center;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
